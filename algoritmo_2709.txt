@@ -1,0 +1,11 @@
+Algorito para preparar cereal en el desayuno 
+PAblo Arizmendi Vega 
+
+1.inicio
+2.- Abrir el refri y buscar los ingredientes como la leche
+3.- agarrar el cereal de tu preferencia 
+4.- buscar un tazon para el cereal 
+5.- primero va el cereal entonces coloca lo que tu quieras de cereal
+6.- despues destapa la leche y sirvete la cantidad un poco menos que el cereal
+7.- busca una cuchara y colocala
+8.- fin
