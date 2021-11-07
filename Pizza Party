@@ -1,0 +1,14 @@
+Pablo Arizmendi Vega 
+
+Inicio
+1. Hacer personas = Entrada de usuario 
+2. Print ("Cuantas personas asistieron") = int(input())
+3. Pizzas = Entrada de usuario 
+4. Imprimir ("Cuantas pizzas compraron") = int(input())
+5. Rebanadas = entrada de usuario 
+6. Print ("Cuantas rebanadas tiene cada pizza") int(input())
+7. Rebanadas por usuario = entrada de usuario 
+8. Imprimir ("Cuantas pizzas va a comer cada quien?") = int(input())
+9. Rebanadas / personas  sobrantes = Pizza total 
+10. Print ("Pizza total") = pizza total 
+Fin
